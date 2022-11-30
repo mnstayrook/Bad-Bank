@@ -12,7 +12,8 @@ A portfolio project to create a website to display functionality, web design, Re
 - Open into designated port
 
 The opened port should look like this:
-![BadBank Home Page](/README_Files/BadBank Home Page.png)
+
+![BadBank Home Page](/repository/README_Files/BadBank Home Page.png "BadBank Home Page")
 
 ## Technology Used:
 - Visual Studio Code
