@@ -13,7 +13,7 @@ A portfolio project to create a website to display functionality, web design, Re
 
 The opened port should look like this:
 
-<img src="/repository/README_Files/BadBank Home Page.png" alt="BadBank Home Page" title="BadBank Home Page">
+<img src="/README_Files/BadBank Home Page.png" alt="BadBank Home Page" title="BadBank Home Page">
 
 ## Technology Used:
 - Visual Studio Code
